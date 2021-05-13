@@ -22,7 +22,7 @@ C. Region
 
 D. Cluster
 
-## Ans: D
+## Ans: B
 
 3. Who owns and maintains the infrastructure required for application services for customers to provision and use?
 
